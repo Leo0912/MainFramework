@@ -1,0 +1,23 @@
+{
+"app_name": {
+  "pethero": {
+    "stage": {
+      "url": "http://nycitappstgclav1.timeinc.com:8010/",
+      "username": "cpgoms",
+      "pwd": "supercpg10",
+	  "DB_Username": "",
+      "DB_pwd": "",
+   },
+    "qa": {
+      "url": "qa-my.pethero.com/storefront/site/mm-pethero-4step-acquisition.html#p1",
+      "MemberPortalURL":"qa-my.pethero.com/storefront/member-home.ep",
+      "username": "subtester",
+      "pwd": "bgpplny2009",
+	  "DB_Username": "",
+      "DB_pwd": "",
+      "MemberPortalemailID":"",
+    }
+  }
+ 
+  }
+}

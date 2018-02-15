@@ -1,0 +1,10 @@
+/target/
+/test-output/
+
+.html
+.xml
+TestData.xlsx
+BrowserStackConfig.json
+/resources/Drivers/*
+/README.md
+/Run_Automation.bat

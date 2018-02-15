@@ -1,0 +1,24 @@
+{
+"app_name": {
+  "subs3": {
+    "stage": {
+      "url": "http://nycitappstgclav1.timeinc.com:8010/",
+      "username": "cpgoms",
+      "pwd": "supercpg10",
+	  "DB_Username": "",
+      "DB_pwd": "",
+   },
+    "qa": {
+      "url1": "qa-subscription.timeinc.com/storefront/site/pe-chop401aa1117-tpl.html",
+      "url": "qa-subscription.travelandleisure.com/storefront/site/le-prtxsellemail1117-tpl.html",
+      "Fulfillment":"qa-fulfillment.ecommerce.timeinc.com/fulfillment/spring_security_login",
+      "username": "subtester",
+      "pwd": "bgpplny2009",
+	  "DB_Username": "",
+      "DB_pwd": "",
+      "MemberPortalemailID":"",
+    }
+  }
+ 
+  }
+}

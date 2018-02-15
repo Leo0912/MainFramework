@@ -1,0 +1,44 @@
+{
+"app_name": {
+  "time": {
+    "qa": {
+      "url": "",
+      "username": "",
+      "pwd": "",
+
+    },
+    "prod": {
+      "url": "http://time.com/",
+       "username": "NA",
+       "pwd": "NA",
+       "DB_pwd": "NA",
+    }
+  }
+ "money": {
+    "qa": {
+      "url": "",
+      "username": "",
+      "pwd": "",
+
+    },
+    "prod": {
+      "url": "http://time.com/money/"
+      "username": "NA",
+       "pwd": "NA",
+    }
+  }
+ "fortune": {
+    "qa": {
+      "url": "",
+      "username": "",
+      "pwd": "",
+
+    },
+    "prod": {
+      "url": "http://fortune.com/"
+      "username": "NA",
+       "pwd": "NA",
+    }
+  }
+}
+}

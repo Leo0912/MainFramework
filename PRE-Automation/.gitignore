@@ -1,0 +1,6 @@
+.html
+.xml
+TestData.xlsx
+/BrowserStackConfig.json
+/resources/Drivers/*
+/Environment Configuration.doc

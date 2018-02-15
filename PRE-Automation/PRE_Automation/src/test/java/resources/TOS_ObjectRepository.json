@@ -1,0 +1,20 @@
+{
+"desktop": {
+  "tos": {
+	"LoginPage.UserID": "//input[@id='loginName']",
+    "LoginPage.Password": "//input[@id='loginPass']",
+    "LoginPage.LoginButton": "//div[@id='formDIV']//input[6]",
+    "LoginPage.ResetPassword": "//a[@id='resetPassword']",
+    "LoginPage.ProceedToTimeXchange": "//a[contains(text(),'Proceed to TimeXchange')]",
+    "Navigation.DistributionMenu":"//a[@title='Menu for Distribution']",
+    "Navigation.SearchConsigneeMenu":"//a[@title='To Search consignee']",
+    "Navigation.NewConsigneeMenu":"//a[@title='TOS Consignee Data Entry']",
+    "CreateConsignee.ConsigneeNametxt":"tobeadded",
+    "CreateConsignee.ConsigneeNumtxt":"//input[@name='consigneeKey']",
+    "CreateConsignee.ConsigneeTypeList":"//select[@id='type_consignee']",
+    "CreateConsignee.Save":"//input[@id='btn_save']",
+    "AllTOSPages.Frame":"//iframe[@id='frame_main']",
+    
+       }
+ } 
+}

@@ -1,0 +1,37 @@
+{
+	"desktop": {
+		"subs3": {
+			"SelectDeal.Deal1": "//*[@id='tab_0']/button",
+			"SelectDeal.Deal2": "//*[@id='tab_1']/button",
+			"SelectPaymentType.CreditCard": "//*[@id='creditcardButton']",
+			"SelectPaymentType.PayPal": "//*[@id='PayPalExpressShortcut']",
+			
+			"AddressInformation.FirstName": "//*[@id='billingAddress.firstName']",
+			"AddressInformation.LastName": "//*[@id='billingAddress.lastName']",
+			"AddressInformation.Street": "//*[@id='billingAddress.street1']",
+			"AddressInformation.City": "//*[@id='billingAddress.city']",
+			"AddressInformation.Zip": "//*[@id='billingAddress.zipPostalCode']",
+			"AddressInformation.State": "//*[@id='billingAddress.subCountry']",
+			"AddressInformation.EmailAddress": "//*[@id='billingAddress.email']",
+			
+			"PaymentInformation.CardNumber": "//*[@id='paymentFormBean.unencryptedCardNumber']",
+			"PaymentInformation.Month": "//*[@id='paymentFormBean.expiryMonth']",
+			"PaymentInformation.Year": "//*[@id='paymentFormBean.expiryYear']",
+			
+			"OrderPage.Submit": "//*[@id='formSubmit']",
+			
+			"FulfillmentPage.username": "//input[@name='j_username']",
+			"FulfillmentPage.password": "//input[@name='j_password']",
+			"FulfillmentPage.loginSubmit": "//input[@name='submit']",
+			
+			"FulfillmentPage.orderNumber": "//input[@id='orderNumber']",
+			"FulfillmentPage.searchButton": "//input[@value='Search']",
+			
+			"FulfillmentPage.SkuFulfillmentStatus": "//td[contains(.,'Sku Fulfillment Status:')]/following-sibling::td",
+			"FulfillmentPage.MAGICID": "//td[contains(.,'MAGIC EK - Order SKU level')]/following-sibling::td",
+			"FulfillmentPage.PageID": "//td[contains(.,'PAGEID - order level')]/following-sibling::td",
+			"FulfillmentPage.ResponseText": "//td[contains(.,'Response Text:')]/following-sibling::td/textarea",
+			
+		}
+	}
+}
